@@ -1,0 +1,3 @@
+com\mycompany\model\Persona.class
+com\mycompany\model\Domicilio.class
+com\mycompany\actions\PersonasAction.class
